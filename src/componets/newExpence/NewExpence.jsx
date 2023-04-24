@@ -14,7 +14,7 @@ export function NewExpence() {
   const [expence, setExpence] = useState([
     {
       title: "Sumsung",
-      price: 100,
+      price: 1500,
       date: "2023-03-12",
       id: "1",
     },
