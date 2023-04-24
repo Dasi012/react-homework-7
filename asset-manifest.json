@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Breact-homework-7%7D/static/css/main.005986cd.css",
+    "main.js": "/%7Breact-homework-7%7D/static/js/main.1f1cc3cf.js",
+    "index.html": "/%7Breact-homework-7%7D/index.html",
+    "main.005986cd.css.map": "/%7Breact-homework-7%7D/static/css/main.005986cd.css.map",
+    "main.1f1cc3cf.js.map": "/%7Breact-homework-7%7D/static/js/main.1f1cc3cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005986cd.css",
+    "static/js/main.1f1cc3cf.js"
+  ]
+}
